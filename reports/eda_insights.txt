@@ -1,0 +1,5 @@
+1. Total Revenue = XXXXX
+2. Highest Revenue Country = XXXXX
+3. Best Selling Product = XXXXX
+4. Top Customer Generated = XXXXX
+5. Sales Peak Month = XXXXX
